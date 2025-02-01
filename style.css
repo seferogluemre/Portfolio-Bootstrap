@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}
+#mainNavbar{
+    background-color: rgb(47, 64, 87)!important;
+    font-weight: 500!important;
+    padding:30px 0px;
+}
+.header{
+    padding-top: 105px;
+    padding-bottom: 80px;
+    background-color: #36BA98;
+    font-size: 1.5rem;
+}
+.rounded:hover{
+    color: #36BA98!important;
+}
+#about{
+    background-color: #36ba98
+}
+#portfolio{
+    padding-top: 90px;
+}
+.portfolio{
+    border-radius: 10px;
+}
+.lead{
+    font-weight: 400!important;
+    font: 1.5rem;
+}
+.aboutButton{
+    padding: 16px 28px!important;
+    font-size: 1.25rem!important;
+}
+.footer{
+    padding: 5rem;
+    background-color: #2c3e50;
+    color: aliceblue;
+    column-gap: 20px;
+}
